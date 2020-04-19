@@ -4,7 +4,7 @@ Usage of this notifier is to know about upcoming selling date of tickets from so
 # Install
 - Install Node JS
 - Run npm install
-- Config your email address(in code)
+- Config your email address (in code)
 - Update the url that will be checked (in code)
 
 - run as node js app
